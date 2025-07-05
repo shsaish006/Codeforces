@@ -1,4 +1,3 @@
-/***from dust i have come, dust i will be***/
 
 #include<bits/stdc++.h>
 typedef long long int ll;
